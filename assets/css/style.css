@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;800&display=swap');
 
 :root {
-    --color-light-pink: #D98299;
-    --color-dark-pink: #D95988;
     --color-blue: #A0BBF2;
     --color-dark-blue: #8096c0;
-    --color-nude: #dad7d3;
+    --color-nude: #f3f1ed;
     --color-light-nude: #f7f1e7;
     --color-green: #7eb490;
     --color-red: #b90030;
