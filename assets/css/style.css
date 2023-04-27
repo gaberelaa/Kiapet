@@ -273,7 +273,7 @@ footer a:hover {
 
     /* banner */
     .banner1  img {
-        content: url('/assets/images/layout/mobile1.png');
+        content: url('assets/images/layout/mobile1.png');
       }
 
       .banner2  img {
