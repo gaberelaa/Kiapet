@@ -11,7 +11,8 @@ e além da loja temos também a área onde poderá ver alguns pets disponíveis 
 A responsividade foi implementada com media queries e bootstrap.
 Em breve será adicionado a funcionalidade de adicionar ao carrinho, projeto ainda em desenvolvimento.
 
-Poderá visualizar o site acessando o link a seguir
+Poderá visualizar o site acessando o link a seguir:
+https://gaberelaa.github.io/Kiapet/
 
 ## Tecnologias utilizadas:
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
