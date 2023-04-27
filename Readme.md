@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="assets/images/layout/logo.png" width="300px">
+</div>
 
 # 🐾 Kiapet - O melhor para o seu melhor amigo!
 
