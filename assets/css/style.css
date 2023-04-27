@@ -273,19 +273,19 @@ footer a:hover {
 
     /* banner */
     .banner1  img {
-        content: url('/assets/images/layout/mobile1.png');
+        content: url('/assets/css/mobile/mobile1.png');
       }
 
       .banner2  img {
-        content: url('/assets/images/layout/mobile2.png');
+        content: url('/assets/css/mobile/mobile2.png');
       }
 
       .banner3  img {
-        content: url('/assets/images/layout/mobile3.png');
+        content: url('/assets/css/mobile/mobile3.png');
       }
 
       .banner4  img {
-        content: url('/assets/images/layout/mobile4.png');
+        content: url('/assets/css/mobile/mobile4.png');
       }
     
 
